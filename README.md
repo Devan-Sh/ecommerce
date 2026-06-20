@@ -2,11 +2,6 @@
 
 A full-stack e-commerce web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), featuring a customer-facing storefront, a separate admin dashboard, and secure JWT-based authentication.
 
-## 🚀 Live Demo
-
-- **Storefront:** [Add your deployed frontend link]
-- **Admin Panel:** [Add your deployed admin link]
-- **Backend API:** [Add your deployed backend link]
 
 ## 📌 Features
 
